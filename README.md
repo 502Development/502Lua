@@ -1,2 +1,2 @@
 # 502Lua
-Shared LuaU development team hosting
+502 Development's LuaU GitHub.
